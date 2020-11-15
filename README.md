@@ -8,7 +8,7 @@
 
 ## Arrangements
 
-Please add the following Variables to your environment
+Please add the following variables to your environment
 
 ``` sh
 EXPORT SYSTEMC_ROOT=<Path to SystemC root directory>
